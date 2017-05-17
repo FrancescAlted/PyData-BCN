@@ -27,4 +27,4 @@ in order to install it, try the `conda-forge` channel instead:
 $ conda install -c conda-forge cartopy
 ```
 
-** Enjoy data! **
+**Enjoy data!**
