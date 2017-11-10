@@ -1,7 +1,7 @@
 # HDF5 and pandas
 Tutorial on HDF5 and pandas for PyData Barcelona
 
-Here are my materials for the tutorial on Fri 19, 2017 in PyData Barcelona 2017.
+Here are my materials for the tutorial on May 19th, 2017 in PyData Barcelona 2017.
 
 You can get the latest release of the materials from here:
 
